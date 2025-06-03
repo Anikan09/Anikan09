@@ -20,4 +20,4 @@ Discord: @anikan_09
 
 ## ✍️ Random Dev Quote
 
-![Developer Quote](images/dev_quote.png)
+![Developer Quote](https://wallpaperaccess.com/full/983826.jpg =800x400)
