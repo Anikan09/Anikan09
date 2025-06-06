@@ -1,6 +1,6 @@
 ## About me:
 
-hey im your learning developer, i work on projects about html, css & python. Self-studying Cyber security and penetration testing.
+hey im your learning developer, I work on projects about html, css & python. Self-studying Cyber security and penetration testing.
 
 ## 🌐 Contact:
 
