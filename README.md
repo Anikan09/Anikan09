@@ -24,7 +24,8 @@ I'm currently learning **TypeScript**.
 
 ### 📊 My Stats 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anikan09&theme=dark&hide_border=true" alt="Anikan09s GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anikan09&show_icons=true&theme=dark&hide_border=true" alt="Anikan09s GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anikan09&layout=compact&theme=dark&hide_border=true" alt="Anikan09s Top Sprachen" height="180" />
 </p>
 
 ---
