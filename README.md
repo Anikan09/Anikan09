@@ -32,5 +32,5 @@ I'm currently learning **TypeScript**.
 
 ### 💬 Random Dev Quotes 
 <p align="left">
-  <img src="https://github-readme-quotes.vercel.app/api?theme=dark&animation=twinkling" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
