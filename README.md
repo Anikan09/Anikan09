@@ -9,7 +9,7 @@
 
 | Project | Status | Description |
 |---|---|---|
-| 🤖 **Jarvis AI** | 🔨 In development | My own take on Jarvis, a personal AI assistant built with Claude. |
+| 🤖 **[Jarvis AI](https://github.com/Anikan09/jarvis-galaxy)** | 🔨 In development | My own take on Jarvis, a personal AI assistant built with Claude. |
 | 🖱️ **Clicker Simulator** (Roblox) | 🔨 In development | A clicker game packed with features and fun live events. |
 | 👻 **Horror Game** (Roblox) | 🔨 In development | An atmospheric horror experience. |
 
